@@ -6,3 +6,5 @@ Binary Bot uses [Google Blockly](https://developers.google.com/blockly) to provi
     npm install; npm update
 ## How To Use
 open **index.html** in your browser.
+
+You can get a big picture of the workspace [here](https://github.com/binary-com/binary-bot/wiki/Page-Map).
