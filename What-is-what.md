@@ -1,0 +1,1 @@
+![Main page map](https://github.com/binary-com/binary-bot/raw/gh-pages/www/images/main_page.png)
