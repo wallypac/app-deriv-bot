@@ -9,5 +9,5 @@ Or you can install it locally...
 ## Installation
     git clone https://github.com/binary-com/binary-bot.git
     cd binary-bot
-    npm install; npm update
+    npm install
     # Then open bot.html in your browser.
