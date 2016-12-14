@@ -11,5 +11,5 @@ Or you can install it locally...
 git clone https://github.com/binary-com/binary-bot.git
 cd binary-bot
 npm install
-npm run dev
+npm start
 ```
