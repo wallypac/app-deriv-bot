@@ -3,7 +3,7 @@ Binary Bot uses [Google Blockly](https://developers.google.com/blockly) to provi
 ## Home Page
 Click to open [bot.binary.com](https://bot.binary.com/) home page.
 ## Usage
-You can use an [online version of Binary Bot](https://bot.binary.com/bot.html). To learn how to use Binary Bot take the interactive tours (see the list of tours at the right top of the [Binary Bot](https://bot.binary.com/bot.html)).
+You can use an [online version of Binary Bot](https://bot.binary.com/bot.html).
 
 Or you can install it locally...
 ## Installation
